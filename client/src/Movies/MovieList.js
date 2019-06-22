@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import axios from 'axios';
 import Movie from "./Movie";
 // import MovieDetails from "./MovieDetails";
+import {Link} from "react-router-dom";
+
 export default class MovieList extends Component {
   constructor(props) {
     super(props);
