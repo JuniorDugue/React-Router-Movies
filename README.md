@@ -23,8 +23,8 @@ Topics:
 
 * Wrap your app with the router. [x]
 * Inside your App file add two routes.
-  * one route for `/` that loads the `MovieList` component.
-  * one route that will take an `id` parameter after`/movies/` (ex: `/movies/2`, `/movies/3` where the id is dynamic). This route should load the `Movie` component.
+  * one route for `/` that loads the `MovieList` component.[x]
+  * one route that will take an `id` parameter after`/movies/` (ex: `/movies/2`, `/movies/3` where the id is dynamic). This route should load the `Movie` component.[x]
 
 ### Part 2:
 
